@@ -95,7 +95,7 @@ nav {
 /* Top part first nav style */
 .first-nav {
     height: 55px;
-    padding: 0 20px;
+    padding: 0 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -160,15 +160,16 @@ nav {
 .second-nav {
     max-height: 55px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid var(--second-nav-bottom-border-color);
+    padding: 0 2px;
 }
 
 .second-nav>ul {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
