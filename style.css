@@ -389,6 +389,7 @@ nav {
 .third-section>.user-story>.story-image {
     width: 100% !important;
     height: 100% !important;
+    opacity: .7;
 }
 
 .user-story>.story-image>img {
