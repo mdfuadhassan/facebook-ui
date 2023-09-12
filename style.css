@@ -345,7 +345,7 @@ nav {
     justify-content: center;
     align-items: end;
     text-align: center;
-    padding: 0 10px 15px 10px;
+    padding: 0 10px 10px 10px;
     border-radius: 0 0 10px 10px;
     overflow: hidden;
 }
@@ -389,7 +389,7 @@ nav {
 .third-section>.user-story>.story-image {
     width: 100% !important;
     height: 100% !important;
-    opacity: .7;
+    opacity: .6;
 }
 
 .user-story>.story-image>img {
